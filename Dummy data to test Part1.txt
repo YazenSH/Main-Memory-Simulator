@@ -1,0 +1,22 @@
+2400
+
+rq x 150 f
+
+rq P2 500 f
+
+rq y 350 f
+
+rq P3 200 f 
+
+rq P5 375 f 
+
+rq z 710 f
+
+
+rq P7 115 f
+
+rl x 
+
+rl y 
+
+rl z
